@@ -5,7 +5,6 @@ Galeria interativa de cards das fases do personagem Naruto, desenvolvida com HTM
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
@@ -15,7 +14,6 @@ Galeria interativa de cards das fases do personagem Naruto, desenvolvida com HTM
 <div align="center">
   <img width="1914" height="981" alt="Captura de tela 2025-07-15 094912" src="https://github.com/user-attachments/assets/859920e9-f78f-464f-bb5c-abc601f23d99" />
 </div>
----
 <div align="center">
   <img width="1909" height="981" alt="Captura de tela 2025-07-15 094931" src="https://github.com/user-attachments/assets/5f9fa15a-d68a-463d-b96d-f8423969f526" />
 </div>
@@ -34,7 +32,6 @@ Galeria interativa de cards das fases do personagem Naruto, desenvolvida com HTM
 Naruto-Card-Gallery/
 ├── index.html
 ├── style.css
-├── script.js
 ├── images/
 │   ├── naruto-barion-mode.jpg
 │   ├── naruto-chakra-mode-nine-tails-kid.jpg
@@ -58,7 +55,7 @@ Naruto-Card-Gallery/
 ---
 
 ## 🔗Acesso ao deploy GitHub Pages
-
+https://johnreiiss.github.io/Naruto-Card-Gallery/
 ---
 
 ## 🎨 Personalização
