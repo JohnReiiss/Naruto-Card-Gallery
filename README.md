@@ -50,6 +50,7 @@ Naruto-Card-Gallery/
 ## 🚀 Como Executar
 1- Clone o repositório:
 ```git clone https://github.com/JohnReiiss/Naruto-Card-Gallery.git```
+
 2- Abra index.html no navegador
 
 ---
