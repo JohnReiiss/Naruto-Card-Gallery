@@ -71,13 +71,18 @@ Para adicionar novos cards:
 ---
 
 ## 📄 Licença
-MIT © John Reis
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
 ## 📱 Contato
-- 📧 E-mail: johnatan.reiiss@icloud.com
+- 📧 **E-mail:** johnatan.reiiss@icloud.com
 - 🔗 **LinkedIn:** [linkedin.com/in/johnatan-Reis](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)
-- 💻 - **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss) 
+- 💻 **GitHub:** [github.com/JohnReiiss](https://github.com/JohnReiiss)
+- 🧑‍💻 **Desenvolvedor**: [Johnatan dos Santos Reis]  
+
+---
+
+Obrigado por visitar este repositório! Espero que goste do projeto. 🚀
 
 
