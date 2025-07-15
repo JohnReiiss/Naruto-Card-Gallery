@@ -71,7 +71,7 @@ Para adicionar novos cards:
 ---
 
 ## 📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/JohnReiiss/Naruto-Card-Gallery/blob/main/README.md) para detalhes.
 
 ---
 
